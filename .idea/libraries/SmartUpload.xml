@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SmartUpload">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/SmartUpload.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
